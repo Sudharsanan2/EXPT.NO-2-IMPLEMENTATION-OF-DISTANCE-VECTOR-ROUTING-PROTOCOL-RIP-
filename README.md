@@ -42,7 +42,7 @@ o PC4: 192.168.4.2, Subnet Mask: 255.255.255.0, Gateway: 192.168.4.1
 
 o PC5: 192.168.4.3, Subnet Mask: 255.255.255.0, Gateway: 192.168.4.1
  
-# PROGRAM
+# PROGRAM:
 
 Router0 Configuration Steps
 
@@ -128,7 +128,7 @@ You can also check connectivity between the PCs on different networks to ensure 
    
 •	Similarly, you can ping between other PCs (e.g., from PC2 to PC5) to verify network connective
  
-# OUTPUT
+# OUTPUT:
 
 ![Distance vector routing](https://github.com/user-attachments/assets/af43e973-7d28-42d7-ab82-c713d9712de6)
 
